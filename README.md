@@ -1,1 +1,1 @@
-# OnlineResumeGenerator
+Online Resume Generator made using HTML,CSS and Javascript. It takes the necessary information from the user and builds a resume for the user based on a template which is preferred by professionals. It has got an option to upload your picture in the resume too and it gives a print cv button using which u can choose to save it as a pdf file in your system or print it right away. Hope you like it!
